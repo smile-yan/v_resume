@@ -3,7 +3,7 @@
 > 使用vue实现一个在线编辑简历的webAPP，支持PDF格式下载。
 
 可以访问这个网址查看该项目效果：
-http://resume.baijiawei.top
+http://withyan.cn:8080/
 
 也可以查看具体的开发过程以及我遇到的一些问题：
 https://segmentfault.com/a/1190000014195243
